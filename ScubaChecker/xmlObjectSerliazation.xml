@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTestCase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TestCase>
+    <TestContent>amit</TestContent>
+    <Id>13</Id>
+  </TestCase>
+  <TestCase>
+    <TestContent>ariel</TestContent>
+    <Id>13</Id>
+  </TestCase>
+</ArrayOfTestCase>
